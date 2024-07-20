@@ -2,13 +2,13 @@ const data=[
     {
         id :'1',
         question :'What is your name',
-        answer : 'My name is vishwas',
+        answer : 'My name is arya',
 
     },
     {
         id:'2',
         question :'What is college name',
-        answer:'My College name is kiet',
+        answer:'My College name is SMS',
 
     },
     {
@@ -20,7 +20,7 @@ const data=[
     {
         id:'4',
         question:'Are you Happy with the college ',
-        answer:'Yes  iam very not happy',
+        answer:'Yes  i am very happy',
     },
 
 ];
