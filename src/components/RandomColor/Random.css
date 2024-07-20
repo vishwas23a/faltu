@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#back{
+    height: 100vh;
+    width: 100vw;
+  
+
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.butt button{
+    padding: 20px;
+    width: 10vw;
+    margin-top: 10vh;
+  
+}
+.hexcode{
+    margin: 30vh;
+    font-size: 3.0rem;
+    display: flex;
+    justify-content: center;
+
+}
